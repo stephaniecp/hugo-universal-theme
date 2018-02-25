@@ -1,17 +1,17 @@
-name = "Universal"
+name = "s2b_universal"
 license = "MIT"
 licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
 description = "A port of the Universal theme"
-homepage = "//github.com/devcows/hugo-universal-theme"
+homepage = "//github.com/stephaniecp/hugo-universal-theme"
 tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
 features = ["blog", "themes", "disqus", "minimal", "responsive"]
 min_version = 0.15
 
 [author]
-    name = "adrianmo"
-    homepage = "//github.com/adrianmo"
+    name = "stephaniecp"
+    homepage = "//github.com/stephaniecp"
 
 # If Porting existing theme
 [original]
-    author =  "bootstrapious"
-    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
+    author =  "adrianmo"
+    homepage = "//github.com/adrianmo"
